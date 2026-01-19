@@ -1,0 +1,35 @@
+.NavBar {
+  border-bottom: 1px solid #000;
+  justify-content: space-between;
+  display: flex;
+}
+
+.NavBar > ul {
+  display: flex;
+}
+
+.NavBar > ul > li {
+  padding: 10px;
+  list-style-type: none;
+}
+
+.ProductCart {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  display: flex;
+}
+
+.Product {
+  text-align: center;
+  border: 2px solid #000;
+  width: 200px;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.image {
+  justify-content: space-between;
+  width: 200px;
+  display: flex;
+}
+/*# sourceMappingURL=Index.9e4c6fd2.css.map */
